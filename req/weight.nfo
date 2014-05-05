@@ -1,0 +1,2 @@
+curl -i "http://127.0.0.1:8080/weight?level=1&index=1"
+curl -i "http://127.0.0.1:8080/weight/3/2"
